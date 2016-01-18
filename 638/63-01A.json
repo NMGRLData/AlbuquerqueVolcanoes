@@ -2,40 +2,40 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "54.95 mg", 
+    "comment": "108.54 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": null, 
+            "deflection": 120.0, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": null, 
+            "deflection": 130.0, 
             "gain": null
         }, 
         "H1": {
-            "deflection": null, 
+            "deflection": 0.0, 
             "gain": null
         }, 
         "H2": {
-            "deflection": null, 
+            "deflection": 200.0, 
             "gain": null
         }, 
         "L1": {
-            "deflection": null, 
+            "deflection": 200.0, 
             "gain": null
         }, 
         "L2": {
-            "deflection": null, 
+            "deflection": 420.0, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63075", 
-    "increment": null, 
-    "irradiation": "NM-269", 
-    "irradiation_level": "A", 
-    "irradiation_position": 5, 
+    "identifier": "63863", 
+    "increment": 0, 
+    "irradiation": "NM-278", 
+    "irradiation_level": "C", 
+    "irradiation_position": 1, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "gm", 
+    "material": "Groundmass Concentrate", 
     "measurement": "", 
     "project": "AlbuquerqueVolcanoes", 
     "queue_conditionals_name": "", 
     "repository_identifier": "AlbuquerqueVolcanoes", 
-    "sample": "NMAV-09", 
-    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-10-10T02:33:16", 
-    "username": "MZimmerer", 
-    "uuid": "936bfe08-a04b-4169-a158-77ea9ed3a84e"
+    "sample": "AV-41", 
+    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
+    "timestamp": "2015-10-30T12:03:54", 
+    "username": "", 
+    "uuid": "b44dc0e5-e6a7-4b66-b67b-4e9d9af4e1c8"
 }

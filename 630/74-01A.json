@@ -2,40 +2,40 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "75.2 mg", 
+    "comment": "57.19 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
-            "deflection": 120.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "CDD": {
-            "deflection": 130.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H1": {
-            "deflection": 0.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "H2": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L1": {
-            "deflection": 200.0, 
+            "deflection": null, 
             "gain": null
         }, 
         "L2": {
-            "deflection": 420.0, 
+            "deflection": null, 
             "gain": null
         }
     }, 
     "extraction": "", 
-    "identifier": "63861", 
-    "increment": null, 
-    "irradiation": "NM-278", 
-    "irradiation_level": "B", 
-    "irradiation_position": 5, 
+    "identifier": "63074", 
+    "increment": 0, 
+    "irradiation": "NM-269", 
+    "irradiation_level": "A", 
+    "irradiation_position": 4, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -69,14 +69,14 @@
         }
     }, 
     "mass_spectrometer": "obama", 
-    "material": "Groundmass Concentrate", 
+    "material": "gm", 
     "measurement": "", 
     "project": "AlbuquerqueVolcanoes", 
     "queue_conditionals_name": "", 
     "repository_identifier": "AlbuquerqueVolcanoes", 
-    "sample": "NMAV-19", 
-    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-10-29T04:46:43", 
-    "username": "", 
-    "uuid": "d0cb87a4-e500-436c-8350-2607f2226f09"
+    "sample": "NMAV-05", 
+    "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
+    "timestamp": "2014-10-09T22:32:16", 
+    "username": "MZimmerer", 
+    "uuid": "1c5d7dd5-0abd-4158-86dd-6072a3e736dc"
 }

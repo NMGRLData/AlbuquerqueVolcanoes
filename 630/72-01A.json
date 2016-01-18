@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "59.01 mg", 
+    "comment": "55.48 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63076", 
-    "increment": null, 
+    "identifier": "63072", 
+    "increment": 0, 
     "irradiation": "NM-269", 
     "irradiation_level": "A", 
-    "irradiation_position": 6, 
+    "irradiation_position": 2, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "AlbuquerqueVolcanoes", 
     "queue_conditionals_name": "", 
     "repository_identifier": "AlbuquerqueVolcanoes", 
-    "sample": "NMAV-11", 
+    "sample": "NMAV-02", 
     "spec_sha": "60248bf9da67b92300dde8348586c4b7bee665c9", 
-    "timestamp": "2014-10-12T22:30:15", 
+    "timestamp": "2014-10-09T14:29:56", 
     "username": "MZimmerer", 
-    "uuid": "1db7f2ac-01d8-44bd-9768-eecd0fac81d5"
+    "uuid": "0202b7ff-8511-4664-848b-4d1ef731d8f4"
 }
