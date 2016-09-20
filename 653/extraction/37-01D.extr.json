@@ -1,0 +1,33 @@
+{
+    "beam_diameter": "3.0", 
+    "cleanup_duration": 240.0, 
+    "commit": "81c38877817bd73f0f88a7ea22212a1bc90f5fe2", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 1.6, 
+    "pattern": "9and10hole_square.lp", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "3", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "6", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "request": "QsGvTgAAAADA3p09AAD6RCbhBEAAAPpEqGiCQAAA+kT+icJAAAD6RIZNAUEAAPpEfHEhQQAA+kTLdkFBAAD6RPWIYUEAAPpEi8KAQQAA+kSf0JBBAAD6ROndoEEAAPpEdd6wQQAA+kTn7sBBAAD6RL700EEAAPpECQLhQQAA+kRKDfFBAAD6RI+IAEIAAPpEJYwIQgAA+kTLjRBCAAD6RMOMGEIAAPpEU5MgQgAA+kQ/mihCAAD6RKucMEIAAPpE16I4QgAA+kTnoUBCAAD6RO2mSEIAAPpEn6dQQgAA+kSeplhCAAD6RKatYEIAAPpEyq1oQgAA+kQktHBCAAD6RH+4eEIAAPpETlyAQgAA+kSRXoRCAAD6RB1iiEIAAPpEvWGMQgAA+kT4YZBCAAD6RBNklEIAAPpEnmWYQgAA+kQXaZxCAAD6RJ5ooEIAAPpEHmikQgAA+kRaaKhCAAD6RIporEIAAPpEyWywQgAA+kRyb7RCAAD6RA==", 
+    "response": "QsGvTgAAAADA3p09n1mVQSbhBEAAAAAAqGiCQAAAAAD+icJAAAAAAIZNAUEIYJhBfHEhQQhgmEHLdkFBCGCYQfWIYUEIYJhBi8KAQQhgmEGf0JBBCGCYQendoEEIYJhBdd6wQQhgmEHn7sBBCGCYQb700EEIYJhBCQLhQQhgmEFKDfFBCGCYQY+IAEIIYJhBJYwIQghgmEHLjRBCCGCYQcOMGEIIYJhBU5MgQghgmEE/mihCCGCYQaucMEIIYJhB16I4QghgmEHnoUBCCGCYQe2mSEIIYJhBn6dQQghgmEGeplhCCGCYQaatYEIIYJhByq1oQghgmEEktHBCCGCYQX+4eEIIYJhBTlyAQghgmEGRXoRCCGCYQR1iiEIIYJhBvWGMQghgmEH4YZBCCGCYQRNklEIIYJhBnmWYQghgmEEXaZxCCGCYQZ5ooEIIYJhBHmikQghgmEFaaKhCCGCYQYporEIIYJhByWywQghgmEFyb7RCCGCYQQ==", 
+    "sblob": "", 
+    "tray": "", 
+    "weight": 77.12
+}
