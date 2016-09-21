@@ -1,0 +1,66 @@
+{
+    "aliquot": 2, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "40.67 mg; C3 measurement", 
+    "commit": "9d1bb3436bb717a8f01e0f49aa840414db5ffed7", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "", 
+    "identifier": "65338", 
+    "increment": 8, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-287", 
+    "irradiation_level": "A", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "GroundmassConcentrate", 
+    "measurement": "felix_analysis_C3.py", 
+    "project": "AlbuquerqueVolcanoes", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Albuquerquevolcanoes", 
+    "sample": "NMAV-05", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-09-21T12:09:30.284825", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "ac94275d-f64c-4ae8-bcde-444d4ac33496"
+}
