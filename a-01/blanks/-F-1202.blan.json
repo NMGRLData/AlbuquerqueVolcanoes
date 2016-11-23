@@ -1,0 +1,101 @@
+{
+    "Ar36": {
+        "error": 0.0003991467339879997, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.0030670599751176026
+    }, 
+    "Ar36H": {
+        "error": 0.0, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.00296841996674996
+    }, 
+    "Ar37": {
+        "error": 0.024409065399811063, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": -0.03344211063742173
+    }, 
+    "Ar37H": {
+        "error": 0.0, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.14443944017646204
+    }, 
+    "Ar38": {
+        "error": 9.326727771551584e-05, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.0005943342139886298
+    }, 
+    "Ar39": {
+        "error": 0.04415832670522231, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.030829550153463767
+    }, 
+    "Ar40": {
+        "error": 0.03842446604060052, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.7332991515238848
+    }, 
+    "Iso37.8624": {
+        "error": 0.0, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.0
+    }, 
+    "PHHCbs": {
+        "error": 0.0, 
+        "fit": "previous", 
+        "references": [
+            {
+                "exclude": false, 
+                "record_id": "bu-FD-F-436"
+            }
+        ], 
+        "value": 0.1541668650462808
+    }
+}
