@@ -1,0 +1,92 @@
+{
+    "acquisition_software": "Pychron16.7(Exp0.1,DVC0.1)", 
+    "aliquot": 437, 
+    "analysis_type": "blank_unknown", 
+    "analyst_name": "MHeizler", 
+    "comment": "testing 2 cdd's unirradiated", 
+    "commit": "16c076c28fac1334dce6ddc6e2c3f28424480072", 
+    "conditionals": [
+        {
+            "analysis_types": null, 
+            "frequency": 10, 
+            "hash_id": -530729609918142714, 
+            "level": 10, 
+            "location": "setupfiles/spectrometer/default_conditionals.yaml", 
+            "ntrips": 1, 
+            "start_count": 5, 
+            "teststr": "L2(CDD).deflection==3250"
+        }
+    ], 
+    "data_reduction_software": "Pychron16.7(DVC0.1)", 
+    "detectors": {
+        "AX(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "bu-FD-F", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 22, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar36H": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar37H": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX(CDD)"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }, 
+        "Iso37.8624": {
+            "detector": "AX(CDD)"
+        }, 
+        "PHHCbs": {
+            "detector": "H1"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Felix", 
+    "material": "Blank", 
+    "measurement": "felix_peak_hop_argon_2CDD.py", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "AlbuquerqueVolcanoes", 
+    "sample": "blank_unknown", 
+    "spec_sha": "c6ede04615c8d08a7fcc1af91b8de0dfc4513301", 
+    "timestamp": "2016-11-28T10:12:06.916581", 
+    "tripped_conditional": null, 
+    "username": "MHeizler", 
+    "uuid": "dbf3c6c8-209d-48c1-b98a-04dc7c2c07b9"
+}
